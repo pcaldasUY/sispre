@@ -8,7 +8,7 @@ namespace AccesoDatos
 {
     public class AProveedor
     {
-        public static int Agregar(Proveedor prov)
+        public int Agregar(Proveedor prov)
         {
             int afectados = -1;
 
